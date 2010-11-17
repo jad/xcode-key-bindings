@@ -4064,6 +4064,12 @@
 		<string>nextCompletion:</string>
 		<key>^/</key>
 		<string>completionPlaceholderSelect:</string>
+		<key>^8</key>
+		<array>
+			<string>selectWord:</string>
+			<string>useSelectionForFind:</string>
+			<string>findNext:</string>
+		</array>
 		<key>^&gt;</key>
 		<string>previousCompletion:</string>
 		<key>^?</key>
@@ -4122,6 +4128,8 @@
 		<string>moveWordForward:</string>
 		<key>^h</key>
 		<string>deleteBackward:</string>
+		<key>^i</key>
+		<string>findNext:</string>
 		<key>^j</key>
 		<string>moveSubWordForward:</string>
 		<key>^k</key>
@@ -4129,7 +4137,24 @@
 		<key>^l</key>
 		<string>centerSelectionInVisibleArea:</string>
 		<key>^m</key>
-		<string>setMark:</string>
+		<dict>
+			<key>^k</key>
+			<string>deleteToMark:</string>
+			<key>^m</key>
+			<string>setMark:</string>
+			<key>^s</key>
+			<string>selectToMark:</string>
+			<key>^w</key>
+			<string>swapWithMark:</string>
+			<key>k</key>
+			<string>deleteToMark:</string>
+			<key>m</key>
+			<string>setMark:</string>
+			<key>s</key>
+			<string>selectToMark:</string>
+			<key>w</key>
+			<string>swapWithMark:</string>
+		</dict>
 		<key>^n</key>
 		<string>moveDown:</string>
 		<key>^o</key>
@@ -4149,6 +4174,37 @@
 		<string>pageDown:</string>
 		<key>^w</key>
 		<string>deleteWordBackward:</string>
+		<key>^x</key>
+		<dict>
+			<key>^a</key>
+			<string>selectAll:</string>
+			<key>^i</key>
+			<array>
+				<string>selectWord:</string>
+				<string>useSelectionForFind:</string>
+				<string>findNext:</string>
+			</array>
+			<key>^l</key>
+			<string>selectLine:</string>
+			<key>^m</key>
+			<string>selectToMark:</string>
+			<key>^w</key>
+			<string>selectWord:</string>
+			<key>^x</key>
+			<string>swapWithMark:</string>
+			<key>a</key>
+			<string>selectAll:</string>
+			<key>i</key>
+			<array>
+				<string>selectWord:</string>
+				<string>useSelectionForFind:</string>
+				<string>findNext:</string>
+			</array>
+			<key>l</key>
+			<string>selectLine:</string>
+			<key>w</key>
+			<string>selectWord:</string>
+		</dict>
 		<key>^y</key>
 		<string>yank:</string>
 		<key>^z</key>
@@ -4216,16 +4272,6 @@
 		<string>moveWordForward:</string>
 		<key>~</key>
 		<string>deleteWordBackward:</string>
-		<key>~</key>
-		<array>
-			<string>moveBackward:</string>
-			<string>moveToBeginningOfParagraph:</string>
-		</array>
-		<key>~</key>
-		<array>
-			<string>moveForward:</string>
-			<string>moveToEndOfParagraph:</string>
-		</array>
 		<key>~</key>
 		<string>moveWordLeft:</string>
 		<key>~</key>
