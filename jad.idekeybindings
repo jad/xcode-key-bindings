@@ -4060,6 +4060,8 @@
 		<string>moveSubWordForwardAndModifySelection:</string>
 		<key>^'</key>
 		<string>insertSingleQuoteIgnoringSubstitution:</string>
+		<key>^-</key>
+		<string>jumpToCounterpart:</string>
 		<key>^.</key>
 		<string>nextCompletion:</string>
 		<key>^/</key>
@@ -4082,8 +4084,6 @@
 		<string>deleteWordBackward:</string>
 		<key>^@i</key>
 		<string>indentSelection:</string>
-        <key>^-</key>
-        <string>jumpToCounterpart:</string>
 		<key>^@j</key>
 		<string>deleteSubWordForward:</string>
 		<key>^@m</key>
