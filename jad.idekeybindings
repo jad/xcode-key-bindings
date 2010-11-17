@@ -4082,6 +4082,8 @@
 		<string>deleteWordBackward:</string>
 		<key>^@i</key>
 		<string>indentSelection:</string>
+        <key>^-</key>
+        <string>jumpToCounterpart:</string>
 		<key>^@j</key>
 		<string>deleteSubWordForward:</string>
 		<key>^@m</key>
