@@ -4081,7 +4081,7 @@
 		<key>^@h</key>
 		<string>deleteWordBackward:</string>
 		<key>^@i</key>
-		<string>insertKillRing:</string>
+		<string>indentSelection:</string>
 		<key>^@j</key>
 		<string>deleteSubWordForward:</string>
 		<key>^@m</key>
