@@ -4140,6 +4140,12 @@
 		<string>centerSelectionInVisibleArea:</string>
 		<key>^m</key>
 		<dict>
+			<key>^c</key>
+			<array>
+				<string>selectToMark:</string>
+				<string>copy:</string>
+				<string>moveForward:</string>
+			</array>
 			<key>^k</key>
 			<string>deleteToMark:</string>
 			<key>^m</key>
@@ -4148,16 +4154,16 @@
 			<string>selectToMark:</string>
 			<key>^w</key>
 			<string>swapWithMark:</string>
-			<key>^c</key>
-			<array>
-				<string>selectToMark:</string>
-				<string>copy:</string>
-				<string>moveForward:</string>
-			</array>
 			<key>^x</key>
 			<array>
 				<string>selectToMark:</string>
 				<string>cut:</string>
+			</array>
+			<key>c</key>
+			<array>
+				<string>selectToMark:</string>
+				<string>copy:</string>
+				<string>moveForward:</string>
 			</array>
 			<key>k</key>
 			<string>deleteToMark:</string>
@@ -4167,12 +4173,6 @@
 			<string>selectToMark:</string>
 			<key>w</key>
 			<string>swapWithMark:</string>
-			<key>c</key>
-			<array>
-				<string>selectToMark:</string>
-				<string>copy:</string>
-				<string>moveForward:</string>
-			</array>
 			<key>x</key>
 			<array>
 				<string>selectToMark:</string>
@@ -4180,8 +4180,6 @@
 			</array>
 		</dict>
 		<key>^n</key>
-			<key>w</key>
-			<string>swapWithMark:</string>
 		<string>moveDown:</string>
 		<key>^o</key>
 		<array>
