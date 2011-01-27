@@ -4171,7 +4171,7 @@
 			<array>
 				<string>selectToMark:</string>
 				<string>copy:</string>
-                <string>moveForward:</string>
+				<string>moveForward:</string>
 			</array>
 			<key>x</key>
 			<array>
