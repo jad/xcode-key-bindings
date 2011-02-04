@@ -4118,8 +4118,6 @@
 		<string>moveToBeginningOfParagraph:</string>
 		<key>^b</key>
 		<string>moveBackward:</string>
-		<key>^c</key>
-		<string>pageUp:</string>
 		<key>^d</key>
 		<string>deleteForward:</string>
 		<key>^e</key>
