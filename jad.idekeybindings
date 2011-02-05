@@ -36,10 +36,6 @@
 			<string>moveSubWordBackwardAndModifySelection:</string>
 			<key>^$J</key>
 			<string>moveSubWordForwardAndModifySelection:</string>
-			<key>^$</key>
-			<string>moveSubWordBackwardAndModifySelection:</string>
-			<key>^$</key>
-			<string>moveSubWordForwardAndModifySelection:</string>
 			<key>^@i</key>
 			<string>deleteSubWordBackward:</string>
 			<key>^@j</key>
@@ -55,14 +51,6 @@
 				<key>^x</key>
 				<string>swapWithMark:</string>
 			</dict>
-			<key>^</key>
-			<string>deleteSubWordBackward:</string>
-			<key>^</key>
-			<string>moveSubWordBackward:</string>
-			<key>^</key>
-			<string>moveSubWordForward:</string>
-			<key>^</key>
-			<string>deleteSubWordForward:</string>
 		</dict>
 		<key>Version</key>
 		<integer>3</integer>
