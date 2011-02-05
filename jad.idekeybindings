@@ -44,10 +44,13 @@
 			<string>moveSubWordBackward:</string>
 			<key>^j</key>
 			<string>moveSubWordForward:</string>
+			<key>^m</key>
+			<dict>
+				<key>^s</key>
+				<string>selectToMark:</string>
+			</dict>
 			<key>^x</key>
 			<dict>
-				<key>^m</key>
-				<string>selectToMark:</string>
 				<key>^x</key>
 				<string>swapWithMark:</string>
 			</dict>
