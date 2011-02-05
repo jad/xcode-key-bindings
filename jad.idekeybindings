@@ -46,6 +46,10 @@
 			<string>moveSubWordForward:</string>
 			<key>^m</key>
 			<dict>
+				<key>^k</key>
+				<string>deleteToMark:</string>
+				<key>^m</key>
+				<string>setMark:</string>
 				<key>^s</key>
 				<string>selectToMark:</string>
 			</dict>
