@@ -42,6 +42,38 @@
 				<key>Title</key>
 				<string>Re-Indent</string>
 			</dict>
+			<dict>
+				<key>Action</key>
+				<string>buildForProfileActiveRunContext:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.BuildForProfile</string>
+				<key>Group</key>
+				<string>Product Menu</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEKit.MenuDefinition.Main</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Build For Profiling</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>profileActiveSchemeWithoutBuilding:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.ProfileWithoutBuilding</string>
+				<key>Group</key>
+				<string>Product Menu</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEKit.MenuDefinition.Main</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Profile Without Building</string>
+			</dict>
 		</array>
 		<key>Version</key>
 		<integer>3</integer>
