@@ -107,6 +107,12 @@
 			<dict>
 				<key>^x</key>
 				<string>swapWithMark:</string>
+				<key>^a</key>
+				<string>selectAll:</string>
+				<key>^l</key>
+				<string>selectLine:</string>
+				<key>^w</key>
+				<string>selectWord:</string>
 			</dict>
 		</dict>
 		<key>Version</key>
