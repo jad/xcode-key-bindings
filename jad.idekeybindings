@@ -775,8 +775,12 @@
 				<string>selectAll:</string>
 				<key>^l</key>
 				<string>selectLine:</string>
-				<key>^w</key>
+				<key>^i</key>
 				<string>selectWord:</string>
+				<key>^n</key>
+				<string>findNext:</string>
+				<key>^p</key>
+				<string>findPrevious:</string>
 			</dict>
 		</dict>
 		<key>Version</key>
