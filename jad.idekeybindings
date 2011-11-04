@@ -354,8 +354,7 @@
 			<string>deleteWordBackward:</string>
 			<key>~</key>
 			<string>deleteWordBackward:</string>
-			<key>
-			<key>^_</key>
+			<key>^]</key>
 			<array>
 				<string>moveForward:</string>
 				<string>moveToEndOfParagraph:</string>
