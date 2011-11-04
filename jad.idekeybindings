@@ -354,6 +354,17 @@
 			<string>deleteWordBackward:</string>
 			<key>~</key>
 			<string>deleteWordBackward:</string>
+			<key>
+			<key>^_</key>
+			<array>
+				<string>moveForward:</string>
+				<string>moveToEndOfParagraph:</string>
+			</array>
+			<key>^o</key>
+			<array>
+				<string>insertNewlineIgnoringFieldEditor:</string>
+				<string>moveBackward:</string>
+			</array>
 		</dict>
 		<key>Version</key>
 		<integer>3</integer>
