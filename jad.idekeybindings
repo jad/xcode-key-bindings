@@ -8,146 +8,6 @@
 		<array>
 			<dict>
 				<key>Action</key>
-				<string>newWorkspace:</string>
-				<key>Alternate</key>
-				<string>NO</string>
-				<key>CommandID</key>
-				<string>Xcode.IDEKit.CmdDefinition.NewWorkspace</string>
-				<key>Group</key>
-				<string>File Menu</string>
-				<key>GroupID</key>
-				<string>Xcode.IDEKit.MenuDefinition.Main</string>
-				<key>GroupedAlternate</key>
-				<string>NO</string>
-				<key>Navigation</key>
-				<string>NO</string>
-				<key>Parent Title</key>
-				<string>New</string>
-				<key>Title</key>
-				<string>New Workspace…</string>
-			</dict>
-			<dict>
-				<key>Action</key>
-				<string>goForwardInHistoryByCommand:</string>
-				<key>Alternate</key>
-				<string>NO</string>
-				<key>CommandID</key>
-				<string>Xcode.IDEKit.CmdDefinition.GoForward</string>
-				<key>Group</key>
-				<string>Navigate Menu</string>
-				<key>GroupID</key>
-				<string>Xcode.IDEKit.MenuDefinition.Main</string>
-				<key>GroupedAlternate</key>
-				<string>NO</string>
-				<key>Keyboard Shortcut</key>
-				<string>^@n</string>
-				<key>Navigation</key>
-				<string>YES</string>
-				<key>Title</key>
-				<string>Go Forward</string>
-			</dict>
-			<dict>
-				<key>Action</key>
-				<string>goForwardInHistoryByCommandWithAlternate:</string>
-				<key>Alternate</key>
-				<string>YES</string>
-				<key>CommandID</key>
-				<string>Xcode.IDEKit.CmdDefinition.GoForwardWithAlternate</string>
-				<key>Group</key>
-				<string>Navigate Menu</string>
-				<key>GroupID</key>
-				<string>Xcode.IDEKit.MenuDefinition.Main</string>
-				<key>GroupedAlternate</key>
-				<string>NO</string>
-				<key>Keyboard Shortcut</key>
-				<string>^~@n</string>
-				<key>Navigation</key>
-				<string>YES</string>
-				<key>Title</key>
-				<string>Go Forward (option)</string>
-			</dict>
-			<dict>
-				<key>Action</key>
-				<string>goForwardInHistoryByCommandWithShiftPlusAlternate:</string>
-				<key>Alternate</key>
-				<string>YES</string>
-				<key>CommandID</key>
-				<string>Xcode.IDEKit.CmdDefinition.GoForwardWithShiftPlusAlternate</string>
-				<key>Group</key>
-				<string>Navigate Menu</string>
-				<key>GroupID</key>
-				<string>Xcode.IDEKit.MenuDefinition.Main</string>
-				<key>GroupedAlternate</key>
-				<string>NO</string>
-				<key>Keyboard Shortcut</key>
-				<string>^~$@N</string>
-				<key>Navigation</key>
-				<string>YES</string>
-				<key>Title</key>
-				<string>Go Forward (shift+option)</string>
-			</dict>
-			<dict>
-				<key>Action</key>
-				<string>goBackInHistoryByCommand:</string>
-				<key>Alternate</key>
-				<string>NO</string>
-				<key>CommandID</key>
-				<string>Xcode.IDEKit.CmdDefinition.GoBack</string>
-				<key>Group</key>
-				<string>Navigate Menu</string>
-				<key>GroupID</key>
-				<string>Xcode.IDEKit.MenuDefinition.Main</string>
-				<key>GroupedAlternate</key>
-				<string>NO</string>
-				<key>Keyboard Shortcut</key>
-				<string>^@p</string>
-				<key>Navigation</key>
-				<string>YES</string>
-				<key>Title</key>
-				<string>Go Back</string>
-			</dict>
-			<dict>
-				<key>Action</key>
-				<string>goBackInHistoryByCommandWithAlternate:</string>
-				<key>Alternate</key>
-				<string>YES</string>
-				<key>CommandID</key>
-				<string>Xcode.IDEKit.CmdDefinition.GoBackWithAlternate</string>
-				<key>Group</key>
-				<string>Navigate Menu</string>
-				<key>GroupID</key>
-				<string>Xcode.IDEKit.MenuDefinition.Main</string>
-				<key>GroupedAlternate</key>
-				<string>NO</string>
-				<key>Keyboard Shortcut</key>
-				<string>^~@p</string>
-				<key>Navigation</key>
-				<string>YES</string>
-				<key>Title</key>
-				<string>Go Back (option)</string>
-			</dict>
-			<dict>
-				<key>Action</key>
-				<string>goBackInHistoryByCommandWithShiftPlusAlternate:</string>
-				<key>Alternate</key>
-				<string>YES</string>
-				<key>CommandID</key>
-				<string>Xcode.IDEKit.CmdDefinition.GoBackWithShiftPlusAlternate</string>
-				<key>Group</key>
-				<string>Navigate Menu</string>
-				<key>GroupID</key>
-				<string>Xcode.IDEKit.MenuDefinition.Main</string>
-				<key>GroupedAlternate</key>
-				<string>NO</string>
-				<key>Keyboard Shortcut</key>
-				<string>^~$@P</string>
-				<key>Navigation</key>
-				<string>YES</string>
-				<key>Title</key>
-				<string>Go Back (shift+option)</string>
-			</dict>
-			<dict>
-				<key>Action</key>
 				<string>jumpToNextCounterpart:</string>
 				<key>Alternate</key>
 				<string>NO</string>
@@ -168,31 +28,11 @@
 			</dict>
 			<dict>
 				<key>Action</key>
-				<string>jumpToPreviousCounterpart:</string>
-				<key>Alternate</key>
-				<string>NO</string>
-				<key>CommandID</key>
-				<string>Xcode.IDESourceEditor.CmdDefinition.JumpToPreviousCounterpart</string>
-				<key>Group</key>
-				<string>Navigate Menu for Source Code</string>
-				<key>GroupID</key>
-				<string>Xcode.IDESourceEditor.MenuDefinition.Navigate</string>
-				<key>GroupedAlternate</key>
-				<string>NO</string>
-				<key>Keyboard Shortcut</key>
-				<string>^_</string>
-				<key>Navigation</key>
-				<string>YES</string>
-				<key>Title</key>
-				<string>Jump to Previous Counterpart</string>
-			</dict>
-			<dict>
-				<key>Action</key>
-				<string>jumpToPreviousCounterpartWithAlternate:</string>
+				<string>jumpToNextCounterpartWithAlternate:</string>
 				<key>Alternate</key>
 				<string>YES</string>
 				<key>CommandID</key>
-				<string>Xcode.IDESourceEditor.CmdDefinition.JumpToPreviousCounterpartWithAlternate</string>
+				<string>Xcode.IDESourceEditor.CmdDefinition.JumpToNextCounterpartWithAlternate</string>
 				<key>Group</key>
 				<string>Navigate Menu for Source Code</string>
 				<key>GroupID</key>
@@ -204,15 +44,15 @@
 				<key>Navigation</key>
 				<string>YES</string>
 				<key>Title</key>
-				<string>Jump to Previous Counterpart (option)</string>
+				<string>Jump to Next Counterpart (option)</string>
 			</dict>
 			<dict>
 				<key>Action</key>
-				<string>jumpToPreviousCounterpartWithShiftPlusAlternate:</string>
+				<string>jumpToNextCounterpartWithShiftPlusAlternate:</string>
 				<key>Alternate</key>
 				<string>YES</string>
 				<key>CommandID</key>
-				<string>Xcode.IDESourceEditor.CmdDefinition.JumpToPreviousCounterpartWithShiftPlusAlternate</string>
+				<string>Xcode.IDESourceEditor.CmdDefinition.JumpToNextCounterpartWithShiftPlusAlternate</string>
 				<key>Group</key>
 				<string>Navigate Menu for Source Code</string>
 				<key>GroupID</key>
@@ -224,83 +64,7 @@
 				<key>Navigation</key>
 				<string>YES</string>
 				<key>Title</key>
-				<string>Jump to Previous Counterpart (shift+option)</string>
-			</dict>
-			<dict>
-				<key>Action</key>
-				<string>indentSelection:</string>
-				<key>Alternate</key>
-				<string>NO</string>
-				<key>CommandID</key>
-				<string>Xcode.IDESourceEditor.CmdDefinition.ReIndent</string>
-				<key>Group</key>
-				<string>Editor Menu for Source Code</string>
-				<key>GroupID</key>
-				<string>Xcode.IDESourceEditor.MenuDefinition.Editor</string>
-				<key>GroupedAlternate</key>
-				<string>NO</string>
-				<key>Keyboard Shortcut</key>
-				<string>$@I</string>
-				<key>Navigation</key>
-				<string>NO</string>
-				<key>Title</key>
-				<string>Re-Indent</string>
-			</dict>
-			<dict>
-				<key>Action</key>
-				<string>buildForProfileActiveRunContext:</string>
-				<key>Alternate</key>
-				<string>NO</string>
-				<key>CommandID</key>
-				<string>Xcode.IDEKit.CmdDefinition.BuildForProfile</string>
-				<key>Group</key>
-				<string>Product Menu</string>
-				<key>GroupID</key>
-				<string>Xcode.IDEKit.MenuDefinition.Main</string>
-				<key>GroupedAlternate</key>
-				<string>NO</string>
-				<key>Navigation</key>
-				<string>NO</string>
-				<key>Title</key>
-				<string>Build For Profiling</string>
-			</dict>
-			<dict>
-				<key>Action</key>
-				<string>runActiveRunContextWithoutBuilding:</string>
-				<key>Alternate</key>
-				<string>NO</string>
-				<key>CommandID</key>
-				<string>Xcode.IDEKit.CmdDefinition.RunWithoutBuilding</string>
-				<key>Group</key>
-				<string>Product Menu</string>
-				<key>GroupID</key>
-				<string>Xcode.IDEKit.MenuDefinition.Main</string>
-				<key>GroupedAlternate</key>
-				<string>NO</string>
-				<key>Navigation</key>
-				<string>NO</string>
-				<key>Parent Title</key>
-				<string>Perform Action</string>
-				<key>Title</key>
-				<string>Run Without Building</string>
-			</dict>
-			<dict>
-				<key>Action</key>
-				<string>profileActiveSchemeWithoutBuilding:</string>
-				<key>Alternate</key>
-				<string>NO</string>
-				<key>CommandID</key>
-				<string>Xcode.IDEKit.CmdDefinition.ProfileWithoutBuilding</string>
-				<key>Group</key>
-				<string>Product Menu</string>
-				<key>GroupID</key>
-				<string>Xcode.IDEKit.MenuDefinition.Main</string>
-				<key>GroupedAlternate</key>
-				<string>NO</string>
-				<key>Navigation</key>
-				<string>NO</string>
-				<key>Title</key>
-				<string>Profile Without Building</string>
+				<string>Jump to Next Counterpart (shift+option)</string>
 			</dict>
 		</array>
 		<key>Version</key>
@@ -310,44 +74,12 @@
 	<dict>
 		<key>Key Bindings</key>
 		<dict>
-			<key>^$I</key>
-			<string>moveSubWordForwardAndModifySelection:</string>
-			<key>^$R</key>
-			<string>moveSubWordBackwardAndModifySelection:</string>
-			<key>^@i</key>
-			<string>deleteSubWordForward:</string>
-			<key>^@l</key>
-			<string>centerSelectionInVisibleArea:</string>
-			<key>^@r</key>
-			<string>deleteSubWordBackward:</string>
-			<key>^i</key>
-			<string>moveSubWordForward:</string>
-			<key>^m</key>
-			<dict>
-				<key>^k</key>
+			<key></key>
+			<array>
 				<string>deleteToMark:</string>
-				<key>^m</key>
-				<string>setMark:</string>
-				<key>^s</key>
-				<string>selectToMark:</string>
-			</dict>
-			<key>^r</key>
-			<string>moveSubWordBackward:</string>
+			</array>
 			<key>^w</key>
 			<string>deleteWordBackward:</string>
-			<key>^x</key>
-			<dict>
-				<key>^a</key>
-				<string>selectAll:</string>
-				<key>^i</key>
-				<string>selectWord:</string>
-				<key>^l</key>
-				<string>selectLine:</string>
-				<key>^n</key>
-				<string>findNext:</string>
-				<key>^p</key>
-				<string>findPrevious:</string>
-			</dict>
 			<key>^~</key>
 			<string>deleteWordBackward:</string>
 			<key>~</key>
