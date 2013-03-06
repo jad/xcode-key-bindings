@@ -51,6 +51,8 @@
 				<string>jumpToNextCounterpart:</string>
 				<key>Alternate</key>
 				<string>NO</string>
+				<key>CommandGroupID</key>
+				<string>Xcode.IDESourceEditor.CmdDefinition.JumpToNextCounterpart</string>
 				<key>CommandID</key>
 				<string>Xcode.IDESourceEditor.CmdDefinition.JumpToNextCounterpart</string>
 				<key>Group</key>
@@ -71,6 +73,8 @@
 				<string>jumpToNextCounterpartWithAlternate:</string>
 				<key>Alternate</key>
 				<string>YES</string>
+				<key>CommandGroupID</key>
+				<string>Xcode.IDESourceEditor.CmdDefinition.JumpToNextCounterpartWithAlternate</string>
 				<key>CommandID</key>
 				<string>Xcode.IDESourceEditor.CmdDefinition.JumpToNextCounterpartWithAlternate</string>
 				<key>Group</key>
@@ -91,6 +95,8 @@
 				<string>jumpToNextCounterpartWithShiftPlusAlternate:</string>
 				<key>Alternate</key>
 				<string>YES</string>
+				<key>CommandGroupID</key>
+				<string>Xcode.IDESourceEditor.CmdDefinition.JumpToNextCounterpartWithShiftPlusAlternate</string>
 				<key>CommandID</key>
 				<string>Xcode.IDESourceEditor.CmdDefinition.JumpToNextCounterpartWithShiftPlusAlternate</string>
 				<key>Group</key>
@@ -201,6 +207,8 @@
 				<string>indentSelection:</string>
 				<key>Alternate</key>
 				<string>NO</string>
+				<key>CommandGroupID</key>
+				<string>Xcode.IDESourceEditor.CmdDefinition.ReIndent</string>
 				<key>CommandID</key>
 				<string>Xcode.IDESourceEditor.CmdDefinition.ReIndent</string>
 				<key>Group</key>
@@ -332,10 +340,6 @@
 			<string>moveSubWordForward:</string>
 			<key>^r</key>
 			<string>moveSubWordBackward:</string>
-			<key>^w</key>
-			<string>deleteWordBackward:</string>
-			<key>^~</key>
-			<string>deleteWordBackward:</string>
 			<key>^</key>
 			<string>deleteSubWordBackward:</string>
 			<key>^</key>
@@ -344,10 +348,6 @@
 			<string>moveSubWordForward:</string>
 			<key>^</key>
 			<string>deleteSubWordForward:</string>
-			<key>~</key>
-			<string>deleteWordBackward:</string>
-			<key>~</key>
-			<string>deleteWordBackward:</string>
 		</dict>
 		<key>Version</key>
 		<integer>3</integer>
