@@ -3,4 +3,4 @@ Copy `jad.idekeybindings` into `~/Library/Developer/Xcode/UserData/KeyBindings/`
 Or clone the repo directly into this directory:
 
     $ cd ~/Library/Developer/Xcode/UserData/
-    $ git clone git@github.com:jad/xcode4-key-bindings.git KeyBindings
+    $ git clone git@github.com:jad/xcode-key-bindings.git KeyBindings
